@@ -1,4 +1,4 @@
-![keenetic-mcp: control your Keenetic router from any MCP agent. Safe by default, changes are not saved unless you ask. Nothing on the router: no USB, no Entware, no firmware mods. Works on any Keenetic, with features adapting to your model and firmware.](https://raw.githubusercontent.com/salatmaster/keenetic-mcp/main/docs/banner.png)
+![keenetic-mcp, the Keenetic MCP server: secure automation and control for Keenetic routers via the Model Context Protocol. Works with Claude and Codex through native plugins, and with Cursor over MCP. Safe by default: changes are not saved unless you ask, with backups and verification built in. Local and private, all traffic stays in your network. Manage settings, users, Wi-Fi and firewall. No router changes, nothing installed on your Keenetic.](https://raw.githubusercontent.com/salatmaster/keenetic-mcp/main/docs/banner.png)
 
 # keenetic-mcp
 
