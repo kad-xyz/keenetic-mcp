@@ -1,4 +1,4 @@
-![keenetic-mcp, the Keenetic MCP server: secure automation and control for Keenetic routers via the Model Context Protocol. Works with Claude and Codex through native plugins, and with Cursor over MCP. Safe by default: changes are not saved unless you ask, with backups and verification built in. Local and private, all traffic stays in your network. Manage settings, users, Wi-Fi and firewall. No router changes, nothing installed on your Keenetic.](https://raw.githubusercontent.com/salatmaster/keenetic-mcp/main/docs/banner.png)
+![keenetic-mcp, the Keenetic MCP server: secure automation and control for Keenetic routers via the Model Context Protocol. Your AI client talks to the MCP server, which talks to the router. Works natively with Claude and Codex, and with Cursor over MCP. Secure and private, all operations run locally in your network. No installation, nothing installed on your Keenetic. Manage settings, users, Wi-Fi and firewall. You decide what to automate and when.](https://raw.githubusercontent.com/salatmaster/keenetic-mcp/main/docs/banner.png)
 
 # keenetic-mcp
 
